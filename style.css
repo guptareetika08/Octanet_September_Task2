@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(6, 6, 6);
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: rgb(37, 34, 34);
+    margin-left: 33%;
+    border-radius:20px;
+    margin-top: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid rgb(201, 98, 179);
+    box-shadow: 0 0 20px rgb(217, 128, 197)
+ }
+ .container h1{
+    color:rgb(249, 246, 249);
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(211, 150, 191);
+    outline: none;
+    font-size: 19px;
+    border-radius:8px;
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(19, 18, 19);
+    color: rgb(252, 247, 247);
+    border: none;
+    cursor: pointer;
+    border-radius:20px;
+    outline: none;
+    border-radius: 10px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(235 158 229);
+    color: rgb(9, 9, 9);
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    border-radius:10px;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color:azure;
+ }
+ .text i:hover{
+    color:black;
+ }
